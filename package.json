@@ -1,0 +1,21 @@
+{
+    "name": "one-dark-pad-theme",
+    "displayName": "one-dark-pad-theme",
+    "description": "undertone colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark PAD Undertone theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark PAD Undertone theme-color-theme.json"
+            }
+        ]
+    }
+}
